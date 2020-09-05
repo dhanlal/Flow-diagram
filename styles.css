@@ -1,0 +1,241 @@
+.sgip-diagram #container {
+    width:920px; 
+    font-family:verdana,arial,helvetica,sans-serif;
+    font-size:11px;
+    text-align:center;
+    margin:auto;
+ }  
+.sgip-diagram #container a {
+    display:block;
+   
+ }
+.sgip-diagram .flex-container {
+    display: flex;
+    flex-direction: column;
+    float: right;
+    margin: 0 176px 0px 1px
+    
+  }
+  
+.sgip-diagram  .flex-container > div {
+    background-color: #f1f1f1;
+    width: 100px;
+   
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+ 
+.sgip-diagram #line1 {
+    font-size:0;
+    width:1px;
+    height:20px;
+    color:#fff;
+    background-color:#000;
+    margin:auto;
+ } 
+.sgip-diagram #line2 {
+    font-size:0;
+    width:424px;
+    height:1px;
+    color:#fff;
+    background-color:#000;    
+    margin:auto;
+ } 
+.sgip-diagram #line3 {
+    font-size:0;
+    display:inline;
+    width:1px;
+    height:20px;
+    color:#fff;
+    background-color:#000;
+    margin-left:78px;
+    float:left;
+ }  
+.sgip-diagram #line4, .sgip-diagram #line5, .sgip-diagram #line6 {
+    font-size:0;
+    display:inline;
+    width:1px;
+    height:20px;
+    color:#fff;
+    background-color:#000;
+    margin-left:140px;
+    float:left;
+ }
+   
+.sgip-diagram #line7, .sgip-diagram #line13 {
+    font-size:0;
+    display:inline;
+    width:1px;
+    height:38px;
+    color:#fff;
+    background-color:#000;
+    margin-left:219px;
+    float:left;
+ } 
+.sgip-diagram #line8, .sgip-diagram #line14 {
+    font-size: 1px;
+    display: inline;
+    width: 3px;
+    height: 38px;
+    color: #fff;
+    background-color: #000;
+    /* margin-left: 304px; */
+    margin: 0px 70px 0px 0px;
+    float: right;
+ } 
+ .sgip-diagram #line25 {
+    font-size: 1px;
+    display: inline;
+    width: 3px;
+    height: 38px;
+    color: #fff;
+    background-color: #000;
+    margin: 0px 68px 3px 1px;
+    /* margin: 11px 51px 5px 12px; */
+    float: right;
+ }  
+ .sgip-diagram #line26 {
+    font-size: 1px;
+    display: inline;
+    width: 3px;
+    height: 38px;
+    color: #fff;
+    background-color: #000;
+    margin: 1px 0px 0px -120px;
+    /* margin: 11px 51px 5px 12px; */
+    float: left;
+ }  
+.sgip-diagram #line9, .sgip-diagram #line11, .sgip-diagram #line15, .sgip-diagram #line17 {
+    font-size:0;
+    display:inline;
+    width:26px;
+    height:1px;
+    color:#fff;
+    background-color:#000;    
+    margin-top:29px;
+    float:left;
+ }  
+.sgip-diagram #line10, .sgip-diagram #line12, .sgip-diagram #line16, .sgip-diagram #line18 {
+    font-size:0;
+    display:inline;
+    width:1px;
+    height:60px;
+    color:#fff;
+    background-color:#000;
+    float:left;
+ } 
+.sgip-diagram #line16, .sgip-diagram #line18 {
+    height:30px;
+ }
+
+.sgip-diagram .clear {
+    clear:both;
+ }                  
+ .sgip-diagram #line1A{
+    font-size:0;
+    display:inline;
+    width: 88px;
+    height:3px;
+    color:#fff;
+    background-color:#000;    
+    margin-top: 39px;
+    float:left;
+ }
+ 
+ .sgip-diagram #line1B {
+    font-size:0;
+    display:inline;
+    width: 64px;
+    height:3px;
+    color:#fff;
+    background-color:#000;    
+    margin: -38px -9px;
+    float:left;
+ }
+ .sgip-diagram #line1C {
+    font-size: 0;
+    display: inline;
+    width: 61px;
+    height: 3px;
+    color: #fff;
+    background-color: #000;
+    margin-top: 60px;
+    float: right;
+ }
+ .sgip-diagram #line1D {
+    font-size: 1px;
+    display: inline;
+    width: 3px;
+    height: 38px;
+    color: #fff;
+    background-color: #000;
+    margin: 1px 0px 0px -84px;
+    /* margin: 11px 51px 5px 12px; */
+    float: left;
+ }
+ .sgip-diagram i.ar1{
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  margin: -3px 0px 0px 75px;
+}
+.sgip-diagram i.ar{
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  margin: -3px 0px 0px 61px;
+}
+.sgip-diagram i.ar2{
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  margin: 29px 0px 0px -3px;
+}
+.sgip-diagram i.ar3{
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  margin: -3px 0px 0px -52px;
+}
+.sgip-diagram i.ar31{
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  margin: -3px 0px 0px -54px;
+}
+.sgip-diagram i.ar4{
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  margin: 0px 0px 0px -3px;
+}
+.sgip-diagram .left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+
+.sgip-diagram .up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+
+.sgip-diagram .right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+.sgip-diagram .down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+.sgip-diagram #container a {
+    text-decoration:underline;
+    color: blue;
+   
+ }
